@@ -1,4 +1,4 @@
-FROM gitpod/workspace-postgres:latest
+FROM gitpod/workspace-postgres:2023-03-21-19-31-17
 USER gitpod
 
 RUN _ruby_version=ruby-3.1.2 \
